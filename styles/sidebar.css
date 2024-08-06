@@ -1,0 +1,38 @@
+body{
+    padding-left: 16%;
+}
+
+.side-bar-div{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 0;
+    top: 160px;
+    bottom: 100px;
+    background-color: rgb(255, 255, 255);
+    width: 20%;
+    border-right: 2px rgb(45, 45, 45) solid;
+}
+
+.home-div{
+    background-color: rgb(75, 74, 74);
+    color: rgb(243, 243, 243);
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.cat-logo-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 11%;
+    padding: 18% 0;
+    border-bottom: 1px black solid;
+    z-index: 99;
+}
+.cat-logo{
+    width: 80%;
+    height: 100%;
+    border-radius: 50%;
+    
+}
