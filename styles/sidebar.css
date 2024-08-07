@@ -6,7 +6,7 @@ body{
     flex-direction: column;
     position: fixed;
     left: 0;
-    top: 10%;
+    top: 64px;
     bottom: 52px;
     background-color: rgb(255, 255, 255);
     width: 20%;
