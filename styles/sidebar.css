@@ -24,7 +24,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 65px;
+    height: 60px;
     padding: 15% 0;
     border-bottom: 0.5px rgb(207, 207, 207) solid;
     z-index: 99;
