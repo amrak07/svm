@@ -1,23 +1,22 @@
 body{
-    padding-left: 16%;
+    padding-left: 22%;
 }
-
 .side-bar-div{
     display: flex;
     flex-direction: column;
     position: fixed;
     left: 0;
-    top: 160px;
-    bottom: 100px;
+    top: 10%;
+    bottom: 0;
     background-color: rgb(255, 255, 255);
     width: 20%;
-    border-right: 2px rgb(45, 45, 45) solid;
+    border-right: 0.1px rgb(178, 178, 178) solid;
 }
 
 .home-div{
     background-color: rgb(75, 74, 74);
     color: rgb(243, 243, 243);
-    border-radius: 10px;
+    border-radius: 3px;
     text-decoration: none;
 }
 
@@ -25,9 +24,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 11%;
-    padding: 18% 0;
-    border-bottom: 1px black solid;
+    height: 9%;
+    padding: 15% 0;
+    border-bottom: 0.5px rgb(207, 207, 207) solid;
     z-index: 99;
 }
 .cat-logo{
