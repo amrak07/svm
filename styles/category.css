@@ -36,14 +36,13 @@
 .cat-img-div{
     display: flex;
     justify-content: center;
-    width: 100%;
-    height: 100%;
+    padding: 12% 0;
+    margin: 3% 0;
     border-bottom: 0.5px rgb(165, 165, 165) solid;
 }
 .cat-img{
     border-radius: 3px;
-    width: 100%;
-    height: 100%;
+    width: 90%;
 }
 .cat-details{
     padding: 5%;
