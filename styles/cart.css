@@ -1,0 +1,10 @@
+.cart-div{
+    background-color: #575757;
+    color: rgb(243, 243, 243);
+    border-radius: 3px;
+    text-decoration: none;
+
+}
+#cart-logo{
+    filter: invert(1);
+}
